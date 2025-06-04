@@ -108,4 +108,4 @@ Proyecto desarrollado como ejercicio de práctica avanzada en SQL con PostgreSQL
 
 ## 🪪 Licencia
 
-Este proyecto es de uso libre para fines educativos y profesionales....
+Este proyecto es de uso libre para fines educativos y profesionales.
